@@ -1,0 +1,15 @@
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\bin\Debug\net6.0\C# Practice.exe
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\bin\Debug\net6.0\C# Practice.deps.json
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\bin\Debug\net6.0\C# Practice.runtimeconfig.json
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\bin\Debug\net6.0\C# Practice.dll
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\bin\Debug\net6.0\C# Practice.pdb
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\C# Practice.csproj.AssemblyReference.cache
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\C# Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\C# Practice.AssemblyInfoInputs.cache
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\C# Practice.AssemblyInfo.cs
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\C# Practice.csproj.CoreCompileInputs.cache
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\C# Practice.dll
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\refint\C# Practice.dll
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\C# Practice.pdb
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\C# Practice.genruntimeconfig.cache
+D:\College stuff\COMP1030(Programming Fundamentals)\C# Practice\obj\Debug\net6.0\ref\C# Practice.dll
